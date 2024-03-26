@@ -1,7 +1,7 @@
 project:
   type: book
-output-dir: docs
-
+  output-dir: docs
+  
 execute: 
   warning: FALSE
   message: FALSE
@@ -27,8 +27,8 @@ format:
     code-tools: true
     code-overflow: wrap
     number-depth: 4
-
-pdf:
-  documentclass: scrreprt
+      
+  pdf:
+    documentclass: scrreprt
 
 editor: source
